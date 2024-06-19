@@ -8,5 +8,5 @@ pip install email-validator
 pip install flask_mail
 pip install mysql-connector-python
 pip install Flask-Bcrypt
-# for remove table:
+# for change table:
 ALTER TABLE post DROP FOREIGN KEY post_ibfk_1;
