@@ -1,0 +1,31 @@
+/bin/bash: line 1: /var/www/project_flask/venv/bin/activate: No such file or directory
+/bin/bash: line 1: gunicorn: command not found
+/bin/bash: line 1: /var/www/project_flask/venv/bin/activate: No such file or directory
+/bin/bash: line 1: gunicorn: command not found
+/bin/bash: line 1: /var/www/project_flask/venv/bin/activate: No such file or directory
+/bin/bash: line 1: gunicorn: command not found
+/bin/bash: line 1: /var/www/project_flask/venv/bin/activate: No such file or directory
+/bin/bash: line 1: gunicorn: command not found
+[2024-06-19 09:13:26 +0300] [11623] [INFO] Starting gunicorn 22.0.0
+[2024-06-19 09:13:26 +0300] [11623] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (11623)
+[2024-06-19 09:13:26 +0300] [11623] [INFO] Using worker: sync
+[2024-06-19 09:13:26 +0300] [11624] [INFO] Booting worker with pid: 11624
+[2024-06-19 09:13:26 +0300] [11626] [INFO] Booting worker with pid: 11626
+[2024-06-19 09:13:27 +0300] [11627] [INFO] Booting worker with pid: 11627
+[2024-06-19 09:13:27,310] INFO in __init__: project_flask startup
+[2024-06-19 09:13:27,341] INFO in __init__: project_flask startup
+[2024-06-19 09:13:27,437] INFO in __init__: project_flask startup
+[2024-06-19 09:14:04 +0300] [11623] [INFO] Handling signal: term
+[2024-06-19 09:14:04 +0300] [11624] [INFO] Worker exiting (pid: 11624)
+[2024-06-19 09:14:04 +0300] [11626] [INFO] Worker exiting (pid: 11626)
+[2024-06-19 09:14:04 +0300] [11627] [INFO] Worker exiting (pid: 11627)
+[2024-06-19 09:14:04 +0300] [11623] [INFO] Shutting down: Master
+[2024-06-19 09:14:06 +0300] [11786] [INFO] Starting gunicorn 22.0.0
+[2024-06-19 09:14:06 +0300] [11786] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (11786)
+[2024-06-19 09:14:06 +0300] [11786] [INFO] Using worker: sync
+[2024-06-19 09:14:06 +0300] [11787] [INFO] Booting worker with pid: 11787
+[2024-06-19 09:14:06 +0300] [11789] [INFO] Booting worker with pid: 11789
+[2024-06-19 09:14:06 +0300] [11790] [INFO] Booting worker with pid: 11790
+[2024-06-19 09:14:06,412] INFO in __init__: project_flask startup
+[2024-06-19 09:14:06,466] INFO in __init__: project_flask startup
+[2024-06-19 09:14:06,513] INFO in __init__: project_flask startup
