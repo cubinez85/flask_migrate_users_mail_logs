@@ -1,0 +1,1 @@
+# flask_migrate_users_mail_logs
