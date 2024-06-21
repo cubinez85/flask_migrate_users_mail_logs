@@ -10,3 +10,5 @@ pip install mysql-connector-python
 pip install Flask-Bcrypt
 # for change table:
 ALTER TABLE post DROP FOREIGN KEY post_ibfk_1;
+# PermissionError: [Errno 13] Permission denied: '/var/www/project_flask/logs/project_flask.log'
+sudo chown -R cubinez85:cubinez85 logs/
